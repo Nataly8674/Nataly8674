@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Natália Castilho 👋🏼
 
-Sou do Brasil 🇧🇷 , Estudante de ADS na Unit desde 2023
-
-Sou apaixonada por design, e programação de  jogos em geral.
+Sou do Brasil 🇧🇷 , 👩‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Unit desde 2023, 
+apaixonada por criar sites inovadores e jogos envolventes. Sempre em busca de novos desafios!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A1lia-castilho-055343247/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naty_castilho2/) 
